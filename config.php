@@ -1,6 +1,8 @@
 <?php
-error_reporting(0);
-$conn = mysqli_connect("localhost", "u453274677_5upiGAME", "U453274677_5upiGAME", "u453274677_5upiGAME");
 
-$server = $_SERVER["SERVER_NAME"];
+//for plans
+
+$token = 'e8d2a2f1ac98d41d3b7422fd11ab98fa'; 
+
+
 ?>
